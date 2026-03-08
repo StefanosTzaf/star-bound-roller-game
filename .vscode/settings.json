@@ -1,0 +1,31 @@
+{
+	"c_project": {
+		// Name of the executable program (only for multi-file compilation & make)
+		"program": "game_example",
+
+		// Directory where the program is located (only for compilation with make)
+		"dir": "programs/game_example",
+
+		// The values declared in arg1 - arg8 below are automatically passed as arguments
+		// to any program we run (either with Ctrl-Shift-B or in the debugger).
+		//
+		// The easiest way to change them: Terminal / Run task / Set program arguments
+		//
+		// - For input redirection, add arguments: "<", "input-file"
+		// - For output redirection, add arguments: ">", "output-file"
+		//
+		// Terminate the list with "#", this argument and the ones after it are ignored.
+		//
+		// NOTE: All arg1 - arg8 must be declared; if commented out, we will
+		//       get an error message. If fewer are needed, simply terminate with "#".
+		//
+		"arg1": "#",
+		"arg2": "#",
+		"arg3": "#",
+		"arg4": "#",
+		"arg5": "#",
+		"arg6": "#",
+		"arg7": "#",
+		"arg8": "#",
+	},
+}

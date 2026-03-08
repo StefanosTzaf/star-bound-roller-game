@@ -1,0 +1,20 @@
+# ignore everything
+*
+!*/
+
+# except for :
+!*.c
+!*.h
+!*.a
+!*.mk
+!Makefile
+!.gitignore
+!README.md
+!.vscode/*.json
+!*.pdf
+!*.sh
+!*.mp3
+!*jpg
+!*.png
+!*.html
+!*.pl
